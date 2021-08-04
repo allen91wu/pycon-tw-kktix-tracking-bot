@@ -10,4 +10,5 @@ This bot is developed for PyCon TW staffs to track the sales status of ticket.
 Create a `.env` file.
 ```
 TOKEN='YOUR_TOKEN'
+NOTIFY_CHANNEL_ID='CHANNEL_ID'
 ```
