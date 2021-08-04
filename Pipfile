@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+"discord.py" = "*"
+requests = "*"
+beautifulsoup4 = "*"
+python-dotenv = "*"
+
+[pipenv]
+allow_prereleases = true
+
+[requires]
+python_version = "3.8"
